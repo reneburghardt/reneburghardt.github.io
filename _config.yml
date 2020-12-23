@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Rene Burghardt
+title: René Burghardt
 url: 'https://reneburghardt.github.io/'
 baseurl: '/' #change it according to your repository name
 description: Resume for Rene Burghardt
