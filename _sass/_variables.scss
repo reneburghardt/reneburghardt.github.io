@@ -36,7 +36,7 @@ $black-color: #000000 !default;
 // Theme colors
 
 $code-bg-color-light: rgba($peppermint-color, 0.05);
-$code-bg-color-dark: $peppermint-color !default;
+$code-bg-color-dark: rgba($peppermint-color, 0.05);
 
 // Font awesome location
 $fa-font-path: "../webfonts";
