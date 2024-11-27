@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-12
+date: 2024-12-01
 inline: true
 related_posts: false
 ---
 
-Our abstract for the <a href="https://sites.google.com/view/foragingconference/home">foraging conference</a> in Lyon, 2024, got accepted.
+I have officially started my PhD in <a href="https://sinzlab.org/">Fabian Sinz's lab</a>.

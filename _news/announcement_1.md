@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have finished my Master's studies in Applied Data Science.
+I have successfully completed my Master’s degree in Applied Data Science.
