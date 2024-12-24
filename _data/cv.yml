@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: René Burghardt
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12th October 1994
     - name: Languages
-      value: English, German
+      value: English, German, Spanish (basic)
 
 - title: Education
   type: time_table
